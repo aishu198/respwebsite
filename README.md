@@ -1,1 +1,1 @@
-Responsive website
+Responsive website just for practice.
